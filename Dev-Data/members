@@ -1,0 +1,433 @@
+[{
+  "_id": {
+    "$oid": "63a222b3bacb371e90f9e6b0"
+  },
+  "firstName": "Tareq",
+  "lastName": "Tareq",
+  "email": "tareq@test.com",
+  "password": "$2b$10$GYQnvDm7eoP0AKY1PSvWJudeUd7oQYv3x6RsJQjsgVq8mzOZI0.5C",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [
+    "can-post",
+    "have-team",
+    "update-own-account"
+  ],
+  "team": [
+    {
+      "$oid": "63a6ddd80a31711ca28ba2cd"
+    },
+    {
+      "$oid": "63ab2c126d0d139b34d5bfb1"
+    },
+    {
+      "$oid": "63ab2d676d0d139b34d5bfbd"
+    },
+    {
+      "$oid": "63ab2de06d0d139b34d5bfc8"
+    },
+    {
+      "$oid": "63b5d43f0b58c2d74e2194ac"
+    }
+  ],
+  "profilePicture": "Tareq-1673690940581-profilePicture.jpeg",
+  "coverPicture": "Tareq-1673693113311-coverPicture.jpeg",
+  "isActive": true,
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63c28278b23df71bde7e1dde"
+  }
+},{
+  "_id": {
+    "$oid": "639f6ba93244cbbc7f9a58c3"
+  },
+  "firstName": "Sadeem",
+  "lastName": "Anwar",
+  "email": "sadeem@test.com",
+  "password": "$2b$10$hxR9zjJwoqaVE6gm1b5mlu6x/nLLIxFK.md50HovDWpYz4hLIAZ6K",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "can-post",
+    "have-team"
+  ],
+  "team": [
+    {
+      "$oid": "639f6c143244cbbc7f9a58c6"
+    },
+    {
+      "$oid": "639f6c333244cbbc7f9a58c9"
+    },
+    {
+      "$oid": "63a094277d9cb33b1d570397"
+    },
+    {
+      "$oid": "63a6df0f87dcf981ab3f01d8"
+    },
+    {
+      "$oid": "63a6df5b87dcf981ab3f01e0"
+    },
+    {
+      "$oid": "63ab26296d0d139b34d5bf61"
+    },
+    {
+      "$oid": "63b28a87bcdbf63f634f62c2"
+    },
+    {
+      "$oid": "63b290c90d916d7e22e5a3a9"
+    },
+    {
+      "$oid": "63b31daed70388de4b9337e6"
+    },
+    {
+      "$oid": "63b3466fcdbd7c03d507b4da"
+    },
+    {
+      "$oid": "63b34688cdbd7c03d507b4ec"
+    }
+  ],
+  "profilePicture": "Sadeem-152403.34943171585-1671392169106-profilePicture.jpeg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "department",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639f6c333244cbbc7f9a58c9"
+  },
+  "firstName": "Amir",
+  "lastName": "Iqbal",
+  "email": "amir@test.com",
+  "password": "$2b$10$OwyjLYkgFs1ehZJn4V35NOc8l50Di6GAokrgW9E.vmZOSPg.zqv6q",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "department",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a094277d9cb33b1d570397"
+  },
+  "firstName": "Ahmad",
+  "lastName": "Aslam",
+  "email": "ahmad@test.com",
+  "password": "$2b$10$9qTikepeY8hK4hZSp.r9HuBNtzAIf8fnvZW2X1O5Wnf6YWdAPeWay",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639f6c143244cbbc7f9a58c6"
+  },
+  "firstName": "Jassica",
+  "lastName": "David",
+  "email": "jassica@test.com",
+  "password": "$2b$10$5HLKdxsvwoB.ZPBn1/QVPuSKqCtS2xYvQ0Zk8FvYwhy.79c0Fpv3C",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [
+    {
+      "$oid": "63a1d120ec4b2c306f853764"
+    },
+    {
+      "$oid": "63a1d6cca74eff7fb1c4a385"
+    },
+    {
+      "$oid": "63a1d746b7ea1b688db6fc99"
+    }
+  ],
+  "profilePicture": "Jassica-1673208263894-profilePicture.jpeg",
+  "coverPicture": "Jassica-1673208277915-coverPicture.jpeg",
+  "isActive": true,
+  "category": "department",
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63b4408dd58b7eb80a07967b"
+  }
+},{
+  "_id": {
+    "$oid": "63a1d746b7ea1b688db6fc99"
+  },
+  "firstName": "Waleed",
+  "lastName": "Zulfqar",
+  "email": "waleed@test.com",
+  "password": "$2b$10$jit6uVe5Gb/aWepdvgCU0.mClhagAuRIhYZL1EsNg6WzW/eZJmQse",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6ddd80a31711ca28ba2cd"
+  },
+  "firstName": "Bilal",
+  "lastName": "Zahid",
+  "email": "bilalzahid@test.com",
+  "password": "$2b$10$32jUbs7H4TxjHaeGI.tUQOQc.mB2I6zxA/hXlcT5jTYyhDnEndAIG",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [],
+  "team": [],
+  "profilePicture": "Bilal-1673622713875-profilePicture.jpeg",
+  "coverPicture": "Bilal-1673545590217-coverPicture.jpeg",
+  "isActive": true,
+  "category": "Department",
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63b40c0b157b70d4463c584a"
+  }
+},{
+  "_id": {
+    "$oid": "63a6df0f87dcf981ab3f01d8"
+  },
+  "firstName": "Hamza",
+  "lastName": "Gujjar",
+  "email": "hamzagujjar@test.com",
+  "password": "$2b$10$nvNzmRIQ1kYg3VvRa4dhq.E.WlecSEdE3//jaWTwPnx9NKKy1FLre",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6df5b87dcf981ab3f01e0"
+  },
+  "firstName": "Skindar",
+  "lastName": "Abbas",
+  "email": "skindarabbas@test.com",
+  "password": "$2b$10$5TOp6vmTYZl7hqWgzVy4K.WILbpDP0dDouTbuwslzyrYqDru8mA4G",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "Branch",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab26296d0d139b34d5bf61"
+  },
+  "firstName": "Ahmad",
+  "lastName": "Iqbal",
+  "email": "ahmadiqbal@test.com",
+  "password": "$2b$10$Dfy6ai5gxNdP8S5zpbKwj.hbT90UhCIYwUbjEBM2B.4DkipE12/ZK",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "electricion"
+  ],
+  "permissions": [
+    "have-team",
+    "post"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "unique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2c126d0d139b34d5bfb1"
+  },
+  "firstName": "engy",
+  "lastName": "hemat",
+  "email": "engy@sales.com",
+  "password": "$2b$10$3DRTsW4rfzsykpb402X4we7nnqT616AtFE8mOHgO7TCte6I1/ofpm",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "have-team"
+  ],
+  "team": [],
+  "profilePicture": "engy-1673178488222-profilePicture.jpeg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "sales",
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63ba8cc33f8130f214990035"
+  }
+},{
+  "_id": {
+    "$oid": "63ab2d676d0d139b34d5bfbd"
+  },
+  "firstName": "engy",
+  "lastName": "hemat",
+  "email": "hemat@sales.com",
+  "password": "$2b$10$Vaf8p5PBY.BJxNJCqYr/WO.1JWXnGlPEkSM5uNCIPxpuBOrnOU2le",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "have-team"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "sales",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab2de06d0d139b34d5bfc8"
+  },
+  "firstName": "ahmed",
+  "lastName": "selim",
+  "email": "ahmed@sales.com",
+  "password": "$2b$10$reOeroFrFfNuvsPSHiO9h.IyW1DIjobwdxrAw.gLA4lyAJ8VnDLrS",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "ahmed-1673268269688-profilePicture.jpeg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "sales",
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63bd33fc66e4f2d37c684677"
+  }
+},{
+  "_id": {
+    "$oid": "63b3466fcdbd7c03d507b4da"
+  },
+  "firstName": "this",
+  "lastName": "test",
+  "email": "thistest@test.com",
+  "password": "$2b$10$c1CEqYOLf3qyM0V29KdF0u5sNlIsqPB4BNX7Q7lJk51thEiL9sVdi",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "painter"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "department",
+  "isCompleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b34688cdbd7c03d507b4ec"
+  },
+  "firstName": "this",
+  "lastName": "test",
+  "email": "thistest2@test.com",
+  "password": "$2b$10$WQ0D3nv7l.xAPQVgAKUZZ.Ianyj7CS3OTNVFT83ZxaGJVw6zuEBmK",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "developer"
+  ],
+  "permissions": [
+    "have-team"
+  ],
+  "team": [],
+  "profilePicture": "default-profilePicture.jpg",
+  "coverPicture": "default-coverPicture.jpg",
+  "isActive": true,
+  "category": "department",
+  "isCompleted": false,
+  "__v": 0,
+  "otherDetails": {
+    "$oid": "63b43bb4a29267da88cb6345"
+  }
+},{
+  "_id": {
+    "$oid": "63b5d43f0b58c2d74e2194ac"
+  },
+  "firstName": "this",
+  "lastName": "is",
+  "email": "thisis@test.com",
+  "password": "$2b$10$UE4UfDkqCq/AXKgW.irZE.7OV.dV5pCbZhFsFE6sKCbxlICqk.rAe",
+  "passwordConfirm": "",
+  "level": 1,
+  "profession": [
+    "broker"
+  ],
+  "permissions": [
+    "can-post"
+  ],
+  "team": [],
+  "profilePicture": "this-1672866572660-profilePicture.jpeg",
+  "coverPicture": "this-1672866579561-coverPicture.jpeg",
+  "isActive": true,
+  "category": "Department",
+  "otherDetails": {
+    "$oid": "63b98a68cd9d358a7773c037"
+  },
+  "__v": 0
+}]

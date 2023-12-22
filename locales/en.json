@@ -1,0 +1,12 @@
+{
+	"hello": "hellowww",
+	"Invalid reset token, Please check your mail again.": "Invalid reset token, Please check your mail again.",
+	"success": "success",
+	"Reset link sent to your email. Please check your mail.": "Reset link sent to your email. Please check your mail.",
+	"Password changed successfully.": "Password changed successfully.",
+	"Please provide": "Please provide",
+	"current-password,": "current-password,",
+	"password & password-confirm": "password & password-confirm",
+	"Your current password is invalid.": "Your current password is invalid.",
+	"password & passwordConfirm not matched.": "password & passwordConfirm not matched."
+}
